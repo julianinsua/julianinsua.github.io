@@ -141,7 +141,7 @@
     "comments": {
       "enabled": true,
       "provider": "giscus",
-      "rawScript": "<script src=\"https://giscus.app/client.js\"\n        data-repo=\"julianinsua/julianinsua.github.io\"\n        data-repo-id=\"R_kgDOQXQeoA\"\n        data-category=\"Announcements\"\n        data-category-id=\"DIC_kwDOQXQeoM4Cx4H2\"\n        data-mapping=\"pathname\"\n        data-strict=\"0\"\n        data-reactions-enabled=\"1\"\n        data-emit-metadata=\"0\"\n        data-input-position=\"bottom\"\n        data-theme=\"catppuccin_mocha\"\n        data-lang=\"en\"\n        crossorigin=\"anonymous\"\n        async>\n</script>",
+      "rawScript": "<script src=\"https://giscus.app/client.js\"\n        data-repo=\"julianinsua/julianinsua.github.io\"\n        data-repo-id=\"R_kgDOQXQeoA\"\n        data-category=\"Announcements\"\n        data-category-id=\"DIC_kwDOQXQeoM4Cx4H2\"\n        data-mapping=\"pathname\"\n        data-strict=\"0\"\n        data-reactions-enabled=\"1\"\n        data-emit-metadata=\"0\"\n        data-input-position=\"bottom\"\n        data-theme=\"catppuccin_macchiato\"\n        data-lang=\"en\"\n        crossorigin=\"anonymous\"\n        async>\n</script>",
       "repo": "julianinsua/julianinsua.github.io",
       "repoId": "R_kgDOQXQeoA",
       "category": "Announcements",
@@ -151,7 +151,7 @@
       "reactions": "1",
       "metadata": "0",
       "inputPosition": "bottom",
-      "theme": "catppuccin_mocha",
+      "theme": "catppuccin_macchiato",
       "lang": "en",
       "loading": ""
     }
@@ -206,7 +206,7 @@
     "comments": {
       "enabled": true,
       "provider": "giscus",
-      "rawScript": "<script src=\"https://giscus.app/client.js\"\n        data-repo=\"julianinsua/julianinsua.github.io\"\n        data-repo-id=\"R_kgDOQXQeoA\"\n        data-category=\"Announcements\"\n        data-category-id=\"DIC_kwDOQXQeoM4Cx4H2\"\n        data-mapping=\"pathname\"\n        data-strict=\"0\"\n        data-reactions-enabled=\"1\"\n        data-emit-metadata=\"0\"\n        data-input-position=\"bottom\"\n        data-theme=\"catppuccin_mocha\"\n        data-lang=\"en\"\n        crossorigin=\"anonymous\"\n        async>\n</script>",
+      "rawScript": "<script src=\"https://giscus.app/client.js\"\n        data-repo=\"julianinsua/julianinsua.github.io\"\n        data-repo-id=\"R_kgDOQXQeoA\"\n        data-category=\"Announcements\"\n        data-category-id=\"DIC_kwDOQXQeoM4Cx4H2\"\n        data-mapping=\"pathname\"\n        data-strict=\"0\"\n        data-reactions-enabled=\"1\"\n        data-emit-metadata=\"0\"\n        data-input-position=\"bottom\"\n        data-theme=\"catppuccin_macchiato\"\n        data-lang=\"en\"\n        crossorigin=\"anonymous\"\n        async>\n</script>",
       "repo": "julianinsua/julianinsua.github.io",
       "repoId": "R_kgDOQXQeoA",
       "category": "Announcements",
@@ -216,7 +216,7 @@
       "reactions": "1",
       "metadata": "0",
       "inputPosition": "bottom",
-      "theme": "catppuccin_mocha",
+      "theme": "catppuccin_macchiato",
       "lang": "en",
       "loading": ""
     }

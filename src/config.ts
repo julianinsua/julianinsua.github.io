@@ -435,7 +435,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:POST_OPTIONS_COMMENTS_INPUT_POSITION]
       inputPosition: "bottom",
       // [CONFIG:POST_OPTIONS_COMMENTS_THEME]
-      theme: "catppuccin_mocha",
+      theme: "catppuccin_macchiato",
       // [CONFIG:POST_OPTIONS_COMMENTS_LANG]
       lang: "en",
       // [CONFIG:POST_OPTIONS_COMMENTS_LOADING]
